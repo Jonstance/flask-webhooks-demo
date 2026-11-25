@@ -1,0 +1,1 @@
+{"eventType":"SUCCESSFUL_TRANSACTION","eventData":{"transactionReference":"MNFY|20|20261219101501|000123","paymentReference":"order_1042","amountPaid":"50000.00","totalPayable":"50000.00","paymentStatus":"PAID","currency":"NGN","paidOn":"19/12/2026 10:15:01 AM","customer":{"name":"Ada Obi","email":"ada@example.com"}}}
